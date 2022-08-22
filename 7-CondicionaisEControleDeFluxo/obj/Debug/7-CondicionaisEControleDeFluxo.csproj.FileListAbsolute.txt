@@ -1,0 +1,8 @@
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\bin\Debug\7-CondicionaisEControleDeFluxo.exe.config
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\bin\Debug\7-CondicionaisEControleDeFluxo.exe
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\bin\Debug\7-CondicionaisEControleDeFluxo.pdb
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\obj\Debug\7-CondicionaisEControleDeFluxo.csproj.AssemblyReference.cache
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\obj\Debug\7-CondicionaisEControleDeFluxo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\obj\Debug\7-CondicionaisEControleDeFluxo.csproj.CoreCompileInputs.cache
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\obj\Debug\7-CondicionaisEControleDeFluxo.exe
+C:\Users\Luigi\Documents\codigos\AprendendoCSharp\7-CondicionaisEControleDeFluxo\obj\Debug\7-CondicionaisEControleDeFluxo.pdb
