@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-CondicionaisEControleDeFluxo", "7-CondicionaisEControleDeFluxo\7-CondicionaisEControleDeFluxo.csproj", "{9537D86D-B1DE-419E-B15D-D605883E7F19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{708A4704-8105-4F63-AB70-4AF14B0EBB59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9537D86D-B1DE-419E-B15D-D605883E7F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9537D86D-B1DE-419E-B15D-D605883E7F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9537D86D-B1DE-419E-B15D-D605883E7F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708A4704-8105-4F63-AB70-4AF14B0EBB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708A4704-8105-4F63-AB70-4AF14B0EBB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708A4704-8105-4F63-AB70-4AF14B0EBB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708A4704-8105-4F63-AB70-4AF14B0EBB59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

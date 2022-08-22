@@ -13,11 +13,13 @@ namespace _7_CondicionaisEControleDeFluxo
             Console.WriteLine("Executando o projeto 7");
 
             int idade = 15;
-            int numeroPessoas = 2;
+            int numeroPessoas = 1;
+
+            // Verificar se a idade é maior ou não de 16 anos.
 
             if (idade >= 16)
             {
-                Console.WriteLine("Bem-vindo, você pode entrar!");
+                Console.WriteLine("Bem-vindo, você  pode entrar!");
             }
             else if (numeroPessoas >= 2)
             {
